@@ -1,5 +1,10 @@
 <resources>
     <string name="app_name">MyApp</string>
+    <string-array name="Category">
+        <item>GROCERIES</item>
+        <item>TOILETRIES</item>
+        <item>BAKERY</item>
+    </string-array>
 
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
